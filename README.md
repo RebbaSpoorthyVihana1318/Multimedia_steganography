@@ -1,6 +1,3 @@
-Here's your **README.md** file in a **single code block** format:  
-
-```md
 # Multimedia Steganography
 
 ## 📌 Overview  
@@ -20,16 +17,16 @@ This project implements **steganography** techniques to securely hide and extrac
 
 ## 📂 Folder Structure  
 ```
-##📂 multimedia-steganography  
-##┣ 📂 modes  
-## ┃ ┣ 📂 Image  # Image steganography module  
-## ┃ ┣ 📂 Audio  # Audio steganography module  
-## ┃ ┣ 📂 Text   # Text steganography module  
-## ┃ ┣ 📂 Video  # Video steganography module  
-## ┣ 📜 main.py  # Main Flask app  
-## ┣ 📜 home.html  # Frontend template  
-## ┣ 📜 requirements.txt  # Dependencies  
-## ┗ 📜 README.md  # Project Documentation  
+📂 multimedia-steganography  
+ ┣ 📂 modes  
+ ┃ ┣ 📂 Image  # Image steganography module  
+ ┃ ┣ 📂 Audio  # Audio steganography module  
+ ┃ ┣ 📂 Text   # Text steganography module  
+ ┃ ┣ 📂 Video  # Video steganography module  
+ ┣ 📜 main.py  # Main Flask app  
+ ┣ 📜 home.html  # Frontend template  
+ ┣ 📜 requirements.txt  # Dependencies  
+ ┗ 📜 README.md  # Project Documentation  
 ```
 
 ## 🔧 Installation & Setup  
@@ -97,6 +94,3 @@ Contributions are welcome! Feel free to submit **issues** or **pull requests**.
 
 ## 📜 License  
 This project is licensed under the **MIT License**.  
-```
-
-This is your **complete README file** in a **single code block**. Let me know if you need further modifications! 🚀

@@ -20,16 +20,16 @@ This project implements **steganography** techniques to securely hide and extrac
 
 ## 📂 Folder Structure  
 ```
-📂 multimedia-steganography  
- ┣ 📂 modes  
- ┃ ┣ 📂 Image  # Image steganography module  
- ┃ ┣ 📂 Audio  # Audio steganography module  
- ┃ ┣ 📂 Text   # Text steganography module  
- ┃ ┣ 📂 Video  # Video steganography module  
- ┣ 📜 main.py  # Main Flask app  
- ┣ 📜 home.html  # Frontend template  
- ┣ 📜 requirements.txt  # Dependencies  
- ┗ 📜 README.md  # Project Documentation  
+##📂 multimedia-steganography  
+##┣ 📂 modes  
+## ┃ ┣ 📂 Image  # Image steganography module  
+## ┃ ┣ 📂 Audio  # Audio steganography module  
+## ┃ ┣ 📂 Text   # Text steganography module  
+## ┃ ┣ 📂 Video  # Video steganography module  
+## ┣ 📜 main.py  # Main Flask app  
+## ┣ 📜 home.html  # Frontend template  
+## ┣ 📜 requirements.txt  # Dependencies  
+## ┗ 📜 README.md  # Project Documentation  
 ```
 
 ## 🔧 Installation & Setup  
